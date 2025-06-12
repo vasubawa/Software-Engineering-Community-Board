@@ -29,8 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/software-engineering-community-board-CsTK4md' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://imgur.com/a/software-engineering-community-board-CsTK4md (I have no idea why)
+<img src='https://i.imgur.com/4pImg37.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
