@@ -29,7 +29,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/4pImg37.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/4pImg37.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+(https://i.imgur.com/4pImg37.gif)
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
