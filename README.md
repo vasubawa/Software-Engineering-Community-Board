@@ -29,8 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/CsTK4md.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CsTK4md" data-context="false" ><a href="//imgur.com/a/CsTK4md">Software Engineering Community Board</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/software-engineering-community-board-CsTK4md' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
